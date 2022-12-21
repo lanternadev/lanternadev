@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mike Gallagher
-- 👀 I’m interested in PowerShell, C#, Kotlin and all kinds of automation.
+- 👀 I’m interested in PowerShell, C#, Kotlin, Linux and all kinds of automation.
 - 📫 How to reach me ...
 
 <!---
