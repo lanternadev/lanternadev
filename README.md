@@ -7,4 +7,4 @@ I’m passionate about SharePoint, SQL Server, M365, Azure, PowerShell (:heart_e
 
 - Fully automated deployment and management of M365 Purview Risk and Compliance
 - End-to-end creation of Azure DevOps Repository and cloning to local VS Code repository
-- SharePoint on-premises Migration module, building using the ShareGate PowerShell Module and PnP.
+- SharePoint on-premises Migration module, building using the ShareGate PowerShell Module and PnP
