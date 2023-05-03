@@ -1,12 +1,3 @@
-#Hi, I’m Mike Gallagher
-#I'm a .
-# 
-#I really enjoy automating all aspects of SharePoint (all versions) and M365
-# 
-##
-##
-
-
 # Mike Gallagher
 ## _Senior Operations Engineer. Over 20 years SharePoint experience_
 
