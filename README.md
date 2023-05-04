@@ -1,5 +1,5 @@
 # Mike Gallagher
-## _Senior Operations Engineer with over 20 years SharePoint experience_
+## Senior Operations Engineer with over 20 years SharePoint experience
 
 I’m passionate about SharePoint, SQL Server, M365, Azure, PowerShell, C#, and lots more. I really enjoy automating all aspects of SharePoint and M365.
 
