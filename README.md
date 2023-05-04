@@ -9,4 +9,4 @@ I’m passionate about SharePoint, SQL Server, M365, Azure, PowerShell, C#, and 
 - Deployment and management of M365 Purview Risk and Compliance 
 - Fully automated end-to-end deployment of Azure DevOps Repository and cloning to local Git repository using Plaster to deploy module templates
 - SharePoint on-premises migration module, built using the ShareGate PowerShell Module and PnP
-- Module to identify SP on-premises site collections approaching their quota limit
+- PowerShell Module to identify SP on-premises site collections approaching their quota limit
