@@ -3,7 +3,7 @@
 
 I’m passionate about SharePoint, SQL Server, M365, Azure, PowerShell, C#, and lots more. I really enjoy automating all aspects of SharePoint and M365.
 
-## Recent projects include:
+### Recent projects include:
 
 - SharePoint Online Site Provisioning Module. Built on PnP Provisioning Engine. Deploy and manage sites, pages, lists, views, content types, properties, etc. 
 - M365 Purview Risk and Compliance deployment and management module
