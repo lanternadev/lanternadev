@@ -6,6 +6,6 @@ I’m passionate about SharePoint, SQL Server, M365, Azure, PowerShell, C#, and 
 ## Some recent highlights:
 
 - M365 Purview Risk and Compliance deployment and management module
-- End-to-end creation of Azure DevOps Repository and cloning to local Git repository
+- Fully automated end-to-end creation of Azure DevOps Repository and cloning to local Git repository
 - SharePoint on-premises Migration module, building using the ShareGate PowerShell Module and PnP
 - Function to identify SP on-premises site collections approaching their quota limit
