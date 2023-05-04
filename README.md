@@ -5,7 +5,7 @@ My focus is on PowerShell, SharePoint, M365, SQL Server, Azure, C#, and lots mor
 
 I really like PowerShell. 
 
-### Recent automation projects include:
+### Recent projects include:
 
 - SharePoint Online Site Provisioning Module. This was built on the PnP Provisioning Engine. Deploy and manage sites, pages, lists, views, content types, properties, etc. 
 - Deployment and management of M365 Purview Risk and Compliance.
