@@ -3,8 +3,6 @@
 
 My focus is on PowerShell, SharePoint, M365, SQL Server, Azure, C#, and lots more. I enjoy managing and automating all aspects of SharePoint and M365. 
 
-I really like PowerShell. 
-
 ### Recent projects include:
 
 - SharePoint Online Site Provisioning Module. This was built on the PnP Provisioning Engine. Deploy and manage sites, pages, lists, views, content types, properties, etc. 
