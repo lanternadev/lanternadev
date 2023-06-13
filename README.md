@@ -10,3 +10,4 @@ My focus is on PowerShell, SharePoint, M365, SQL Server, Azure, C#, and lots mor
 - Fully automated end-to-end deployment of Azure DevOps Repository and cloning to local Git repository using Plaster to deploy module templates.
 - SharePoint on-premises migration module, built using the ShareGate PowerShell Module and PnP.
 - PowerShell Module to identify SP on-premises site collections approaching their quota limit.
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
