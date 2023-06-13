@@ -6,7 +6,7 @@ My focus is on PowerShell, SharePoint, M365, SQL Server, Azure, C#, and lots mor
 ### Recent projects include:
 
 - SharePoint Online Site Provisioning Module. This was built on the PnP Provisioning Engine. Deploy and manage sites, pages, lists, views, content types, properties, etc. 
-- Deployment and management of M365 Purview Risk and Compliance.
+- Wutomated deployment and management of M365 Purview Risk and Compliance.
 - Fully automated end-to-end deployment of Azure DevOps Repository for PowerShell modules. This clone to a local Git repository and uses Plaster to deploy module templates.
 - SharePoint on-premises migration module, built using the ShareGate PowerShell Module and PnP.
 - PowerShell Module to identify SP on-premises site collections approaching their quota limit.
