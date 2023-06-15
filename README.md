@@ -21,4 +21,3 @@ I enjoy automating and managing all aspects of Microsoft 365 and SharePoint.
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=Azure-DevOps&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Cent OS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
