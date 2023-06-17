@@ -2,7 +2,10 @@
 ## Senior Operations Engineer with over 20 years SharePoint experience
 
 I'm interested in PowerShell, SharePoint, M365, SQL Server, Azure, C#, Azure DevOps and lots more. 
-I enjoy automating and managing all aspects of Microsoft 365 and SharePoint. 
+
+I focus on the automation and management of all aspects of Microsoft 365 and SharePoint. 
+
+In my spare time I enjoy development (Python, C++, etc) on my Linux-based homelabs.
 
 ### Recent projects include:
 
