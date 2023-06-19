@@ -5,7 +5,7 @@ I'm interested in PowerShell, SharePoint, M365, SQL Server, Azure, Azure DevOps 
 
 I focus on the automated management of Microsoft 365 and SharePoint. 
 
-In my spare time I enjoy development (Python, C++, etc) on Linux-based home labs.
+I love coding (Python, C++, Go, etc) and have a Linux-based home lab. This is built on Proxmox and uses Kubernetes for CI/CD.  
 
 ### Recent projects include:
 
