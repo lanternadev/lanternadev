@@ -3,7 +3,7 @@
 
 I'm interested in PowerShell, SharePoint, M365, SQL Server, Azure, Azure DevOps and lots more. 
 
-I focus on the automation and management of Microsoft 365 and SharePoint. 
+I focus on the automated management of Microsoft 365 and SharePoint. 
 
 In my spare time I enjoy development (Python, C++, etc) on Linux-based home labs.
 
