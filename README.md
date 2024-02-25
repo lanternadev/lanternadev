@@ -5,8 +5,6 @@ I'm interested in PowerShell, SharePoint, M365, SQL Server, Azure, Azure DevOps 
 
 I focus on the automated management of Microsoft 365 and SharePoint. 
 
-I love coding (Python, C++, etc) and have a Linux-based home lab. 
-
 ### Recent projects include:
 
 - SharePoint Online Site Provisioning Module. This was built on the PnP Provisioning Engine. Deploy and manage sites, pages, lists, views, content types, properties, etc. 
