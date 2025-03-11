@@ -1,5 +1,20 @@
 # Mike Gallagher
-## Senior Operations Engineer with over 20 years SharePoint experience
+## 🚀 Microsoft 365 & SharePoint Administrator & Framework Developer | SPFx | React | TypeScript | Graph API | Fluent UI | PowerShell
+
+💡 Transforming SharePoint Experiences with Modern Development
+With 25+ years in SharePoint administration, I’ve built enterprise-scale intranets and developed solutions that empower businesses. Now, I’ve transitioned into modern SPFx development, leveraging React, TypeScript, and Microsoft Graph API to build dynamic, high-performance SharePoint and Microsoft 365 solutions.
+
+👨‍💻 SPFx & Custom Development Expertise
+
+Developing custom web parts & Teams extensions using SPFx & React.
+Deep integration with Microsoft Graph & SharePoint REST API for data-driven applications.
+Enhancing UI/UX with Fluent UI (Office UI Fabric) and best practices in modern SharePoint.
+Automating business processes using Power Automate & Power Apps integration.
+🔧 Microsoft 365, SharePoint & Power Platform Expert
+
+SharePoint on-prem & online experience with extensive PowerShell automation.
+Designing & optimizing M365 solutions, balancing governance, security & usability.
+Architecting scalable, high-performance intranet & digital workplace solutions.
 
 I'm interested in PowerShell, SharePoint, M365, SQL Server, Azure, Azure DevOps and lots more. 
 
