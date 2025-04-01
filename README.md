@@ -1,13 +1,13 @@
 # Mike Gallagher
-## Microsoft 365 & SharePoint Administrator & SPFX Framework Developer | SPFx | React | TypeScript | Graph API | Fluent UI | PowerShell
+## Microsoft 365 & SharePoint Administrator & SPFX Framework Developer | PowerShell
 
-With 25+ years in SharePoint consulting & administration, I’ve built enterprise-scale intranets and developed solutions that empower businesses. Now, I’ve transitioned into modern SPFx development, leveraging React, TypeScript, and Microsoft Graph API to build dynamic, high-performance SharePoint and Microsoft 365 solutions.
+With 25+ years in SharePoint consulting & administration, I’ve built enterprise-scale intranets and developed solutions that empower businesses. 
 
 SharePoint on-prem & online experience with extensive PowerShell automation.
 Designing & optimizing M365 solutions, balancing governance, security & usability.
 Architecting scalable, high-performance intranet & digital workplace solutions.
 
-I'm interested in PowerShell, SharePoint, M365, SQL Server, Azure, Azure DevOps and lots more. 
+I'm interested in PowerShell, SharePoint, M365, SQL Server, Azure, Azure DevOps, Python, AI and lots more. 
 
 I focus on the automated management of Microsoft 365 and SharePoint. 
 
