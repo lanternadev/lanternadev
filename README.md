@@ -1,5 +1,5 @@
 # Mike Gallagher
-## Microsoft 365 & SharePoint Administrator | PowerShell
+## Microsoft 365 & SharePoint Administraton | PowerShell
 
 With 25+ years in SharePoint consulting & administration, I’ve built enterprise-scale intranets and automated the deployment of hundreds of SharePoint farms and solutions.  
 
