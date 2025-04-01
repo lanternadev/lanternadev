@@ -12,7 +12,7 @@ I’m passionate about PowerShell, SharePoint, Microsoft 365, SQL Server, Azure,
 
 My primary focus is the **automated management of Microsoft 365 and SharePoint**.
 
-In my spare time, I build digital tools to support my research in **Early Modern European History**, using modern technologies like **Python**, **Qdrant**, and other AI frameworks.
+In my spare time, I build digital tools to support my research in **Early Modern European History**. 
 
 ### 🛠️ Recent Projects
 
@@ -20,6 +20,7 @@ In my spare time, I build digital tools to support my research in **Early Modern
 - **Automated M365 Purview Risk & Compliance Deployment** – Configuration and end-to-end automation of Microsoft compliance tooling.
 - **Azure DevOps Repository Deployment** – Fully automated deployment and module scaffolding using PowerShell, Plaster, and Git integration.
 - **SharePoint Online Migration Module** – Built using ShareGate PowerShell Module and PnP, optimised for bulk migrations.
+- **Multilingual AI system for semantic search and cross-lingual research** - Built using Python, Qdrant, LangChain, etc.
 
 ---
 
