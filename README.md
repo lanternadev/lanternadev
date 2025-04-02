@@ -1,7 +1,9 @@
 # Mike Gallagher  
 ## Microsoft 365 & SharePoint Administration | PowerShell Automation  
 
-As a former Senior Premier Field Engineer at Microsoft and a SharePoint consultant with over 25 years of experience, I’ve architected enterprise-scale intranets and automated the deployment and management of hundreds of SharePoint farms and solutions.
+As a former Senior Premier Field Engineer at Microsoft and a SharePoint consultant with over 25 years of experience, I’ve helped organizations design and implement enterprise-scale intranets and document management systems. My focus has consistently been on building clear, practical information architectures—using metadata, taxonomy, and governance to make content easier to organize, find, and manage.
+
+I’ve also automated the deployment and maintenance of hundreds of SharePoint farms and solutions, simplifying management across both on-premises and hybrid environments.
 
 Specialising in:
 - SharePoint (on-prem & online) with deep PowerShell automation
