@@ -23,6 +23,7 @@ In my spare time, I build digital tools to support my research in **Early Modern
 - **Azure DevOps Repository Deployment** – Fully automated deployment and module scaffolding using PowerShell, Plaster, and Git integration.
 - **SharePoint Online Migration Module** – Built using ShareGate PowerShell Module and PnP, optimised for bulk migrations.
 - **Larry: A Multilingual AI Research Assistant** – A local-first system for semantic search and cross-lingual historical research, built with Python, Qdrant, LangChain, and more. [Learn more about Larry here](https://github.com/GallTech/Larry)
+[larry.io](https://www.larryai.io)
  
 
 ---
