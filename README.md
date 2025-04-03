@@ -22,9 +22,6 @@ In my spare time, I build digital tools to support my research in **Early Modern
 - **Automated M365 Purview Risk & Compliance Deployment** – Configuration and end-to-end automation of Microsoft compliance tooling.
 - **Azure DevOps Repository Deployment** – Fully automated deployment and module scaffolding using PowerShell, Plaster, and Git integration.
 - **SharePoint Online Migration Module** – Built using ShareGate PowerShell Module and PnP, optimised for bulk migrations.
-- **Larry: A Multilingual AI Research Assistant** – A local-first system for semantic search and cross-lingual historical research, built with Python, Qdrant, LangChain, and more.
-[Learn more about Larry here](https://github.com/GallTech/Larry)
-
 - **Larry: A Multilingual AI Research Assistant** – A local-first system for semantic search and cross-lingual historical research, built with Python, Qdrant, LangChain, and more.  
   👉 [Visit larry.io](https://www.larryai.io) or [Explore the code on GitHub](https://github.com/GallTech/Larry)
 
