@@ -25,9 +25,6 @@ In my spare time, I build digital tools to support my research in **Early Modern
 - **Larry: A Multilingual AI Research Assistant** – A local-first system for semantic search and cross-lingual historical research, built with Python, Qdrant, LangChain, and more.
 [Learn more about Larry here](https://github.com/GallTech/Larry)
 
-[larry.io](https://www.larryai.io)
- 
-
 ---
 
 ### 🧰 Tech Stack & Tools
