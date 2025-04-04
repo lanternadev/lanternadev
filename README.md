@@ -5,23 +5,25 @@ As a former Senior Premier Field Engineer at Microsoft and a SharePoint consulta
 
 In addition to deep experience with on-premises environments, I work extensively with Microsoft 365 and SharePoint Online—automating deployments, managing content lifecycles, and supporting hybrid environments to simplify operations and ensure long-term maintainability.
 
-Specialising in:
-- SharePoint (on-prem & online) with deep PowerShell automation
-- Designing and optimising Microsoft 365 solutions with governance, security, and usability in balance
-- Architecting scalable, high-performance intranet and digital workplace solutions
+### Specialising in:
+- SharePoint (on-prem & online) with deep PowerShell automation  
+- Designing and optimising Microsoft 365 solutions with governance, security, and usability in balance  
+- Architecting scalable, high-performance intranet and digital workplace solutions  
 
 I’m passionate about PowerShell, SharePoint, Microsoft 365, SQL Server, Azure, Azure DevOps, Python, AI—and much more.
 
-My primary focus is the **automated management of Microsoft 365 and SharePoint**.
+**My primary focus is the _automated management of Microsoft 365 and SharePoint_.**
 
-In my spare time, I build digital tools to support my research in **Early Modern European History**. 
+In my spare time, I build digital tools to support my research in **Early Modern European History**.  
+
+---
 
 ### 🛠️ Recent Projects
 
-- **SharePoint Online Site Provisioning Module** – Built on the PnP Provisioning Engine. Deploys and manages sites, pages, lists, views, content types, properties, and more.
-- **Automated M365 Purview Risk & Compliance Deployment** – Configuration and end-to-end automation of Microsoft compliance tooling.
-- **Azure DevOps Repository Deployment** – Fully automated deployment and module scaffolding using PowerShell, Plaster, and Git integration.
-- **SharePoint Online Migration Module** – Built using ShareGate PowerShell Module and PnP, optimised for bulk migrations.
+- **SharePoint Online Site Provisioning Module** – Built on the PnP Provisioning Engine. Deploys and manages sites, pages, lists, views, content types, properties, and more.  
+- **Automated M365 Purview Risk & Compliance Deployment** – Configuration and end-to-end automation of Microsoft compliance tooling.  
+- **Azure DevOps Repository Deployment** – Fully automated deployment and module scaffolding using PowerShell, Plaster, and Git integration.  
+- **SharePoint Online Migration Module** – Built using ShareGate PowerShell Module and PnP, optimised for bulk migrations.  
 - **Larry: A Multilingual AI Research Assistant** – A local-first system for semantic search and cross-lingual historical research, built with Python, Qdrant, LangChain, and more.  
   👉 [Visit larry.io](https://www.larryai.io) or [Explore the code on GitHub](https://github.com/GallTech/Larry)
 
@@ -36,7 +38,7 @@ In my spare time, I build digital tools to support my research in **Early Modern
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Cent OS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
