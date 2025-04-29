@@ -1,5 +1,5 @@
 # Mike Gallagher  
-## Microsoft 365 & SharePoint Administration | PowerShell Automation  
+## [SharePoint], [Microsoft 365 & Copilot Consulting], [AI Development & RAG Pipelines], [PowerShell & Automation]  
 
 As a former Senior Premier Field Engineer at Microsoft and a SharePoint consultant with over 25 years of experience, I’ve helped organizations design and implement enterprise-scale intranets and information management systems. My work spans both information architecture—structuring content through metadata, taxonomy, and governance—and systems architecture, including infrastructure design, automation, and deployment at scale.
 
