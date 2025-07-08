@@ -1,20 +1,17 @@
 # Mike Gallagher  
-## [SharePoint], [Microsoft 365 & Copilot Consulting], [AI Development & RAG Pipelines], [PowerShell & Automation]  
+## SharePoint & Microsoft 365 Consulting, AI Development, PowerShell & Automation  
 
-As a former Senior Premier Field Engineer at Microsoft and a SharePoint consultant with over 25 years of experience, I’ve helped organizations design and implement enterprise-scale intranets and information management systems. My work spans both information architecture—structuring content through metadata, taxonomy, and governance—and systems architecture, including infrastructure design, automation, and deployment at scale.
+As a former Senior Premier Field Engineer at Microsoft and a SharePoint consultant with over 25 years of experience, I’ve helped organizations design and implement enterprise-scale intranets and information management systems.
 
-In addition to deep experience with on-premises environments, I work with Microsoft 365 and SharePoint Online—automating deployments, managing content lifecycles, and supporting hybrid environments to simplify operations and ensure long-term maintainability.
+In addition to lots of experience with on-premises environments, I work with Microsoft 365 and SharePoint Online - automating deployments, managing content lifecycles, and supporting hybrid environments to simplify operations and ensure long-term maintainability.
 
 Specialising in:
-- SharePoint (on-prem & online) with deep PowerShell automation
+- SharePoint (on-prem & online) with PowerShell automation
 - Designing and optimising Microsoft 365 solutions with governance, security, and usability in balance
 - Architecting scalable, high-performance intranet and digital workplace solutions
 
-I’m passionate about PowerShell, SharePoint, Microsoft 365, SQL Server, Azure, Azure DevOps, Python, AI—and much more.
+I’m passionate about PowerShell, SharePoint, Microsoft 365, SQL Server, Azure, Azure DevOps, Python, AI - and much more.
 
-My primary focus is the **automated management of Microsoft 365 and SharePoint**.
-
-In my spare time, I build digital tools to support my research in **Early Modern European History**. 
 
 ### 🛠️ Recent Projects
 
