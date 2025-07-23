@@ -1,28 +1,39 @@
 # Mike Gallagher  
-## SharePoint & Microsoft 365 Consulting, AI Development, PowerShell & Automation  
+## SharePoint, Microsoft 365, Automation & AI  
 
-As a former Senior Premier Field Engineer at Microsoft and a SharePoint consultant with over 25 years of experience, I’ve helped organizations design and implement enterprise-scale intranets and information management systems.
+Former Senior Premier Field Engineer at Microsoft with 25+ years in SharePoint and Microsoft 365. I design and implement scalable intranet and information management solutions, focusing on automation, governance, and maintainability.  
 
-In addition to lots of experience with on-premises environments, I work with Microsoft 365 and SharePoint Online - automating deployments, managing content lifecycles, and supporting hybrid environments to simplify operations and ensure long-term maintainability.
+Experience spans on-premises SharePoint, hybrid environments, and Microsoft 365, with heavy use of PowerShell for automation and lifecycle management.  
 
-Specialising in:
-- SharePoint (on-prem & online) with PowerShell automation
-- Designing and optimising Microsoft 365 solutions with governance, security, and usability in balance
-- Architecting scalable, high-performance intranet and digital workplace solutions
+Key areas:  
+- SharePoint (on-premises & Online) with PowerShell automation  
+- Microsoft 365 solution design with security, governance, and usability  
+- Scalable intranet and digital workplace architectures  
+- Automation with PowerShell, Azure DevOps, and Python  
 
-I’m passionate about PowerShell, SharePoint, Microsoft 365, SQL Server, Azure, Azure DevOps, Python, AI - and much more.
-
-🛠️ **Homelab RAG (Retrieval-Augmented Generation) environment (July–August 2025):**  
-I'm building a [personal Proxmox lab](https://github.com/GallTech/rag-lab) as a hands-on study project to learn more planning, building and optimising RAG Pipelines.  
-
-### 🛠️ Recent Projects
-
-- **SharePoint Online Site Provisioning Module** – Built on the PnP Provisioning Engine. Deploys and manages sites, pages, lists, views, content types, properties, and more.
-- **Automated M365 Purview Risk & Compliance Deployment** – Configuration and end-to-end automation of Microsoft compliance tooling.
-- **Azure DevOps Repository Deployment** – Fully automated deployment and module scaffolding using PowerShell, Plaster, and Git integration.
-- **SharePoint Online Migration Module** – Built using ShareGate PowerShell Module and PnP, optimised for bulk migrations.
+Current interests: PowerShell, SharePoint, Microsoft 365, SQL Server, Azure, AI, and building practical Retrieval-Augmented Generation (RAG) systems.  
 
 ---
+
+### Current Lab Project (July–August 2025)
+
+Building a **multi-stage Retrieval-Augmented Generation pipeline** in a Proxmox-based lab environment.  
+- Ingesting and processing ~100k AI/ML/Math/Stats research papers with metadata  
+- Chunking, embedding, and storing vectors for semantic search  
+- Exposing a FastAPI microservice for querying  
+- Lightweight Streamlit UI for testing, with future migration to React  
+- Experimenting with prompt engineering and model fine-tuning  
+
+[Project repo → rag-lab](https://github.com/GallTech/rag-lab)  
+
+---
+
+### Selected Work  
+
+- **SharePoint Online Site Provisioning Module** – Built on the PnP Provisioning Engine. Automates site, list, content type, and page deployments.  
+- **Automated M365 Purview Risk & Compliance Deployment** – End-to-end automation of compliance tooling setup.  
+- **Azure DevOps Repository Deployment** – Module scaffolding and deployment using PowerShell, Plaster, and Git integration.  
+- **SharePoint Online Migration Module** – Bulk migration automation with ShareGate PowerShell and PnP modules.  
 
 ### 🪰 Tech Stack & Tools
 
