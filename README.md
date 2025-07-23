@@ -12,7 +12,7 @@ Specialising in:
 
 I’m passionate about PowerShell, SharePoint, Microsoft 365, SQL Server, Azure, Azure DevOps, Python, AI - and much more.
 
-🛠️ **Homelab RAG environment (July–August 2025):**  
+🛠️ **Homelab RAG (Retrieval-Augmented Generation) environment (July–August 2025):**  
 I'm building a [personal Proxmox lab](https://github.com/GallTech/rag-lab) as a hands-on study project to learn more planning, building and optimising RAG Pipelines.  
 
 ### 🛠️ Recent Projects
