@@ -18,7 +18,7 @@ Current interests: PowerShell, SharePoint, Microsoft 365, SQL Server, Azure, AI,
 ### Current Lab Project (July–August 2025)
 
 Building a **Retrieval-Augmented Generation pipeline** in a Proxmox-based lab environment.  
-- Ingesting and processing ~50k AI/ML/Math/Stats research papers with metadata
+- Ingesting and processing ~100k AI/ML/Math/Stats research papers with metadata
 - Chunking, embedding, and storing vectors for semantic search  
 - Exposing a FastAPI microservice for querying  
 - Lightweight Streamlit UI for testing, with future migration to React  
