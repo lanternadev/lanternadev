@@ -21,7 +21,7 @@ Building a **Retrieval-Augmented Generation pipeline** in a Proxmox-based lab en
 - Ingesting and processing ~100k AI/ML/Math/Stats research papers with metadata
 - Chunking, embedding, and storing vectors for semantic search  
 - Exposing a FastAPI microservice for querying  
-- Lightweight Streamlit UI for testing, with future migration to React  
+- Lightweight Streamlit UI for testing and React prototype under-development
 - Experimenting with prompt engineering and model fine-tuning  
 
 [Project repo → rag-lab](https://github.com/GallTech/rag-lab)  
