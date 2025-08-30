@@ -22,7 +22,7 @@ A **Retrieval-Augmented Generation pipeline** in a Proxmox-based lab environment
 - Exposing a FastAPI microservice for querying  
 - Lightweight Streamlit UI for testing and React prototype under-development
 - Experimenting with prompt engineering and model fine-tuning
-- AuthZ microservice integrates SharePoint and M365
+- AuthZ microservice integrates SharePoint and M365 ACLs
   
   [view the repo](https://github.com/lanternadev/lanterna-lab/blob/main/README.md)
 
